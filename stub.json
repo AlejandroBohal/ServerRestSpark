@@ -1,0 +1,6 @@
+db.messages.insertMany([{"mensaje": "prueba2","fecha": "1600405618"},
+    {"mensaje": "prueba3","fecha": "1600405618"},
+    {"mensaje": "prueba4","fecha": "1600405618"},
+    {"mensaje": "prueba5","fecha": "1600405618"},
+    {"mensaje": "prueba6","fecha": "1600405618"},
+    {"mensaje": "prueba7","fecha": "1600405618"}])
