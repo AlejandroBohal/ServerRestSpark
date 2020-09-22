@@ -1,0 +1,5 @@
+edu.eci.arep.sparkdocker
+edu.eci.arep.sparkdocker.documents
+edu.eci.arep.sparkdocker.persistence
+edu.eci.arep.sparkdocker.services
+edu.eci.arep.sparkdocker.services.impl
